@@ -1,5 +1,5 @@
 # Plug-in Parameter Übersicht 
-<div style="font-size: 8px;">Stand: Vectorworks 2026 Update 1 (Build 835767)</div>
+`Stand: Vectorworks 2026 Update 1 (Build 835767
 
 _Klick auf einen Titel, um den Abschnitt ein- oder auszuklappen._
 
