@@ -1,6 +1,9 @@
 # Plug-in Parameter Übersicht
 
-**Build:** Vectorworks 2026 Update 1 (Build 835767)
+## Build-Information
+
+- **Version:** Vectorworks 2026 Update 2
+- **Build:** 841021
 
 _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklappen._
 
@@ -153,38 +156,35 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Elektrische Kombination</strong></summary>
 
 
-| Tool Universal      | Tool Localized          | Record Universal   | Record Localized                    | Typ               |
-|---------------------|-------------------------|--------------------|-------------------------------------|-------------------|
-| ElectricalComponent | Elektrische Kombination | AlignEdge          | Ausrichtung                         | Pop-Up            |
-| ElectricalComponent | Elektrische Kombination | AlignMode          | Ausrichten an                       | Pop-Up            |
-| ElectricalComponent | Elektrische Kombination | AxisID             | Achse                               | Integer           |
-| ElectricalComponent | Elektrische Kombination | AxisOffset         | Horizontalversatz                   | Dimension         |
-| ElectricalComponent | Elektrische Kombination | Class              |                                     | Text              |
-| ElectricalComponent | Elektrische Kombination | CompTypeTag        | Art der Kombination                 | Pop-Up            |
-| ElectricalComponent | Elektrische Kombination | Elevation          | Vertikalversatz                     | Dimension         |
-| ElectricalComponent | Elektrische Kombination | FrameColumns       | Anzahl Bauteilpositionen horizontal | Integer           |
-| ElectricalComponent | Elektrische Kombination | FrameRows          | Anzahl Bauteilpositionen vertikal   | Integer           |
-| ElectricalComponent | Elektrische Kombination | FrameSymbol        | Rahmen 3D-Darstellung               | Text              |
-| ElectricalComponent | Elektrische Kombination | GridCenterX        | Rahmen-Mittelpunkt (X)              | Integer           |
-| ElectricalComponent | Elektrische Kombination | GridCenterY        | Rahmen-Mittelpunkt (Y)              | Integer           |
-| ElectricalComponent | Elektrische Kombination | GridSizeX          | Anzahl Felder horizontal            | Integer           |
-| ElectricalComponent | Elektrische Kombination | GridSizeY          | Anzahl Felder vertikal              | Integer           |
-| ElectricalComponent | Elektrische Kombination | HeightOffsets      | __ItemOffsetsY                      | Pop-Up            |
-| ElectricalComponent | Elektrische Kombination | ItemCount          | Anzahl Bauteile                     | Integer           |
-| ElectricalComponent | Elektrische Kombination | ItemHeight         | Nische Bauteil Höhe                 | Dimension         |
-| ElectricalComponent | Elektrische Kombination | ItemWidth          | Nische Bauteil Breite               | Dimension         |
-| ElectricalComponent | Elektrische Kombination | LevelType          | Referenzhöhe                        | Text              |
-| ElectricalComponent | Elektrische Kombination | ProfileEditMode    | __ProfileEditMode                   | Boolean           |
-| ElectricalComponent | Elektrische Kombination | Reset2D            | __Reset2D                           | Boolean           |
-| ElectricalComponent | Elektrische Kombination | SameHeight         | Achsmaß horizontal wie Höhe         | Boolean           |
-| ElectricalComponent | Elektrische Kombination | SameWidth          | Achsmaß vertikal wie Breite         | Boolean           |
-| ElectricalComponent | Elektrische Kombination | TileDistanceX      |                                     | Dimension         |
-| ElectricalComponent | Elektrische Kombination | TileDistanceY      |                                     | Dimension         |
-| ElectricalComponent | Elektrische Kombination | UID                | __UID                               | Text              |
-| ElectricalComponent | Elektrische Kombination | Version            | __Version                           | Integer           |
-| ElectricalComponent | Elektrische Kombination | WallDistance       | Abstand zur Wand                    | Dimension         |
-| ElectricalComponent | Elektrische Kombination | WidthOffsets       | __ItemOffsetsX                      | Pop-Up            |
-| ElectricalComponent | Elektrische Kombination | __PrefStyleID      |                                     | Symbol Definition |
+| Tool Universal      | Tool Localized          | Record Universal   | Record Localized            | Typ               |
+|---------------------|-------------------------|--------------------|-----------------------------|-------------------|
+| ElectricalComponent | Elektrische Kombination | AlignEdge          | Ausrichtung                 | Pop-Up            |
+| ElectricalComponent | Elektrische Kombination | AlignMode          | Ausrichten an               | Pop-Up            |
+| ElectricalComponent | Elektrische Kombination | AxisID             | Achse                       | Integer           |
+| ElectricalComponent | Elektrische Kombination | AxisOffset         | Horizontalversatz           | Dimension         |
+| ElectricalComponent | Elektrische Kombination | CompTypeTag        | Art der Kombination         | Pop-Up            |
+| ElectricalComponent | Elektrische Kombination | Elevation          | Vertikalversatz             | Dimension         |
+| ElectricalComponent | Elektrische Kombination | FrameSymbol        | Rahmen 3D-Darstellung       | Text              |
+| ElectricalComponent | Elektrische Kombination | GridCenterX        | Rahmen-Mittelpunkt (X)      | Integer           |
+| ElectricalComponent | Elektrische Kombination | GridCenterY        | Rahmen-Mittelpunkt (Y)      | Integer           |
+| ElectricalComponent | Elektrische Kombination | GridSizeX          | Anzahl Felder horizontal    | Integer           |
+| ElectricalComponent | Elektrische Kombination | GridSizeY          | Anzahl Felder vertikal      | Integer           |
+| ElectricalComponent | Elektrische Kombination | HeightOffsets      | __ItemOffsetsY              | Pop-Up            |
+| ElectricalComponent | Elektrische Kombination | ItemCount          | Anzahl Bauteile             | Integer           |
+| ElectricalComponent | Elektrische Kombination | ItemHeight         | Nische Bauteil Höhe         | Dimension         |
+| ElectricalComponent | Elektrische Kombination | ItemWidth          | Nische Bauteil Breite       | Dimension         |
+| ElectricalComponent | Elektrische Kombination | LevelType          | Referenzhöhe                | Text              |
+| ElectricalComponent | Elektrische Kombination | ProfileEditMode    | __ProfileEditMode           | Boolean           |
+| ElectricalComponent | Elektrische Kombination | Reset2D            | __Reset2D                   | Boolean           |
+| ElectricalComponent | Elektrische Kombination | SameHeight         | Achsmaß horizontal wie Höhe | Boolean           |
+| ElectricalComponent | Elektrische Kombination | SameWidth          | Achsmaß vertikal wie Breite | Boolean           |
+| ElectricalComponent | Elektrische Kombination | TileDistanceX      |                             | Dimension         |
+| ElectricalComponent | Elektrische Kombination | TileDistanceY      |                             | Dimension         |
+| ElectricalComponent | Elektrische Kombination | UID                | __UID                       | Text              |
+| ElectricalComponent | Elektrische Kombination | Version            | __Version                   | Integer           |
+| ElectricalComponent | Elektrische Kombination | WallDistance       | Abstand zur Wand            | Dimension         |
+| ElectricalComponent | Elektrische Kombination | WidthOffsets       | __ItemOffsetsX              | Pop-Up            |
+| ElectricalComponent | Elektrische Kombination | __PrefStyleID      |                             | Symbol Definition |
 
 </details>
 
@@ -194,7 +194,6 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 
 | Tool Universal   | Tool Localized       | Record Universal      | Record Localized                    | Typ               |
 |------------------|----------------------|-----------------------|-------------------------------------|-------------------|
-| ElectricalItem   | Elektrisches Bauteil | Class                 |                                     | Text              |
 | ElectricalItem   | Elektrisches Bauteil | CompStyleType         | __CompStyleType                     | Integer           |
 | ElectricalItem   | Elektrisches Bauteil | ControlPointID        | __ControlPointID                    | Integer           |
 | ElectricalItem   | Elektrisches Bauteil | ControlPointX         | __ControlPointX                     | X Coordinate      |
@@ -238,8 +237,8 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 | ElectricalObject | Elektroinstallation | 2DCompGapY           | Abstand Kombination vertikal   | Dimension |
 | ElectricalObject | Elektroinstallation | 2DItemGapX           | Abstand Bauteil horizontal     | Dimension |
 | ElectricalObject | Elektroinstallation | 2DItemGapY           | Abstand Bauteil vertikal       | Dimension |
-| ElectricalObject | Elektroinstallation | 2DScale              | Skalierung                     | Number    |
-| ElectricalObject | Elektroinstallation | 2DScaleCheck         | 2D-Skalierung aktivieren       | Boolean   |
+| ElectricalObject | Elektroinstallation | 2DScale              | Skalierungsfaktor              | Number    |
+| ElectricalObject | Elektroinstallation | 2DScaleCheck         | 2D-Darstellung skalieren       | Boolean   |
 | ElectricalObject | Elektroinstallation | 2DShow3D             | 3D-Darstellung vorne zeigen    | Boolean   |
 | ElectricalObject | Elektroinstallation | 2DWallGap            | Wandabstand                    | Dimension |
 | ElectricalObject | Elektroinstallation | Axis0Offset          | Versatz linke Achse            | Dimension |
@@ -428,7 +427,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 | Window CW        | Fenster          | Pset_OpeningElementCommon_ParallelJambs                | Seiten von Wandöffnung sind Parallel             | Integer           |
 | Window CW        | Fenster          | Pset_OpeningElementCommon_ProtectedOpening             | Brandschutz                                      | Integer           |
 | Window CW        | Fenster          | Pset_OpeningElementCommon_Purpose                      | Zweck                                            | Text              |
-| Window CW        | Fenster          | Pset_ShadingDeviceCommon_IsExternal                    | Außenbauteil                                     | Integer           |
+| Window CW        | Fenster          | Pset_ShadingDeviceCommon_IsExternal                    | Sonnenschutz außenliegend                        | Integer           |
 | Window CW        | Fenster          | Pset_ShadingDeviceCommon_MechanicalOperated            | Mechanisch                                       | Integer           |
 | Window CW        | Fenster          | Pset_ShadingDeviceCommon_Reference                     | Bemusterungstyp                                  | Text              |
 | Window CW        | Fenster          | Pset_ShadingDeviceCommon_Roughness                     | Oberflächenversatz                               | Number            |
@@ -447,7 +446,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 | Window CW        | Fenster          | Pset_WindowCommon_HasSillExternal                      | Fensterbank außen                                | Boolean           |
 | Window CW        | Fenster          | Pset_WindowCommon_HasSillInternal                      | Fensterbank innen                                | Boolean           |
 | Window CW        | Fenster          | Pset_WindowCommon_Infiltration                         | Luftdurchlass                                    | Number            |
-| Window CW        | Fenster          | Pset_WindowCommon_IsExternal                           | Gegen Außenluft                                  | Integer           |
+| Window CW        | Fenster          | Pset_WindowCommon_IsExternal                           | Außenbauteil                                     | Integer           |
 | Window CW        | Fenster          | Pset_WindowCommon_MechanicalLoadRating                 | Mechanische Festigkeit                           | Text              |
 | Window CW        | Fenster          | Pset_WindowCommon_Reference                            | Bauteiltyp                                       | Text              |
 | Window CW        | Fenster          | Pset_WindowCommon_SecurityRating                       | Sicherheitsklasse                                | Text              |
@@ -2222,16 +2221,6 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Tool Localized</strong></summary>
-
-
-| Tool Universal   | Tool Localized   | Record Universal   | Record Localized   | Typ   |
-|------------------|------------------|--------------------|--------------------|-------|
-| Tool Universal   | Tool Localized   | Record Universal   | Record Localized   | Typ   |
-
-</details>
-
-<details>
 <summary><strong>Treppe</strong></summary>
 
 
@@ -2486,7 +2475,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 | Door CW          | Tür              | Pset_DoorCommon_HasDrive                               | Antrieb                                                                | Integer           |
 | Door CW          | Tür              | Pset_DoorCommon_HygrothermalRating                     | Klimaklasse                                                            | Text              |
 | Door CW          | Tür              | Pset_DoorCommon_Infiltration                           | Luftdurchlass                                                          | Number            |
-| Door CW          | Tür              | Pset_DoorCommon_IsExternal                             | Ausgang                                                                | Integer           |
+| Door CW          | Tür              | Pset_DoorCommon_IsExternal                             | Außenbauteil                                                           | Integer           |
 | Door CW          | Tür              | Pset_DoorCommon_MechanicalLoadRating                   | Mechanische Festigkeit                                                 | Text              |
 | Door CW          | Tür              | Pset_DoorCommon_Reference                              | Bauteiltyp                                                             | Text              |
 | Door CW          | Tür              | Pset_DoorCommon_SecurityRating                         | Sicherheitsklasse                                                      | Text              |
@@ -2535,7 +2524,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 | Door CW          | Tür              | Pset_OpeningElementCommon_ParallelJambs                | Seiten von Wandöffnung sind Parallel                                   | Integer           |
 | Door CW          | Tür              | Pset_OpeningElementCommon_ProtectedOpening             | Brandschutz                                                            | Integer           |
 | Door CW          | Tür              | Pset_OpeningElementCommon_Purpose                      | Zweck                                                                  | Text              |
-| Door CW          | Tür              | Pset_ShadingDeviceCommon_IsExternal                    | Außenbauteil                                                           | Integer           |
+| Door CW          | Tür              | Pset_ShadingDeviceCommon_IsExternal                    | Sonnenschutz außenliegend                                              | Integer           |
 | Door CW          | Tür              | Pset_ShadingDeviceCommon_MechanicalOperated            | Mechanisch                                                             | Integer           |
 | Door CW          | Tür              | Pset_ShadingDeviceCommon_Reference                     | Bemusterungstyp                                                        | Text              |
 | Door CW          | Tür              | Pset_ShadingDeviceCommon_Roughness                     | Oberflächenversatz                                                     | Number            |
