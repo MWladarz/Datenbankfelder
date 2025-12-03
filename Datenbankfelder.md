@@ -1,5 +1,5 @@
 # Plug-in Parameter Übersicht 
-`Stand: Vectorworks 2026 Update 1 (Build 835767
+`Stand: Vectorworks 2026 Update 1 (Build 835767)`
 
 _Klick auf einen Titel, um den Abschnitt ein- oder auszuklappen._
 
